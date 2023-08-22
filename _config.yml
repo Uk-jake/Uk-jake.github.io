@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: Jake's develop Log # the main title
 
-tagline: A Growing Developer Achieving One Small Goal  # it will display as the sub-title
+tagline: A Back-end Developer Achieving Small Goal  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   I operate this blog to record my growth and share knowledge with others.
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Uk Jang
-  email: example@domain.com # change to your email address
+  email: mag0225@naver.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
