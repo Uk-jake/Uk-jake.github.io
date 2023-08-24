@@ -1,9 +1,9 @@
 ---
-title: Text and Typography
+title: (네트워크) Web, Network, Internet 기초 개념 정리
 author: Jake
 date: 2023-08-24 18:00:00 +0900
 categories: [Network, Basic]
-tags: [Network],[Web],[Internet]
+tags: [Network]
 pin: true
 math: true
 mermaid: true
@@ -13,12 +13,7 @@ image:
 #  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-# [네트워크] Web, Network, Internet 기초 개념 정리
-
-작성일시: 2023년 8월 23일 오후 3:46
-복습: No
-
-## 요점 정리
+# 요점 정리
 
 <aside>
 💡 웹은 인터넷을 통해 연결된 컴퓨터 네트워크 상에서 정보를 공유하고 표시하는 방법이다. 즉, 여러 개의 네트워크가 모여 인터넷이 형성되고 인터넷 서비스 중 하나가 웹이다.
