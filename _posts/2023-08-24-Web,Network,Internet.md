@@ -3,7 +3,7 @@ title: (네트워크) Web, Network, Internet 기초 개념 정리
 author: Jake
 date: 2023-08-24 18:00:00 +0900
 categories: [Network, Basic]
-tags: [Network], [Web], [Internet]
+tags: [Network, Web, Internet]
 pin: true
 math: true
 mermaid: true
