@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: Jake's develop Log # the main title
 
-tagline: A Back-end Developer Achieving Small Goal  # it will display as the sub-title
+tagline: A Back-end Developer achieving small goal.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   I operate this blog to record my growth and share knowledge with others.
@@ -76,7 +76,7 @@ theme_mode: light # [light|dark]
 # img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/photo/identificationPhoto.jpg"
+avatar: "assets/img/photo/Ukavatar.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true

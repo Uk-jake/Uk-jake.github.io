@@ -3,15 +3,23 @@
 - type: github
   icon: "fab fa-github"
 
-#- type: twitter
-#  icon: "fab fa-twitter"
+- type : photofolio
+  icon : 'far fa-address-card'
+  url : 'https://www.notion.so/About-Jang-Uk-9d5d57dcb4dd434d96ebd45b56f1eb1f?pvs=4'
+
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/uk-jang-7692a223a/'                  # Fill with your Linkedin homepage
+
+- type: instagram
+  icon: "fab fa-instagram"
+  url: 'https://www.instagram.com/ninox._.sun/'
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fab fa-instagram"
+
 
 #  noblank: true
 # Uncomment and complete the url below to enable more contact options
@@ -20,9 +28,6 @@
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
