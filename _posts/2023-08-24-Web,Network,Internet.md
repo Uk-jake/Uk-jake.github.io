@@ -3,7 +3,7 @@ title: (네트워크) Web, Network, Internet 기초 개념 정리
 author: Jake
 date: 2023-08-24 18:00:00 +0900
 categories: [Network, Basic]
-tags: [Network]
+tags: [Network], [Web], [Internet]
 pin: true
 math: true
 mermaid: true
@@ -38,7 +38,7 @@ image:
 
 웹은 사용하기 위해 클릭하는 웹 브라우저와 웹페이지의 요청을 응답하는 웹 서버로 나뉜다. 여기서 웹 브라우저는 클라이언트라고 불리며 주로 인터넷을 사용하는 사람들을 의미하며 웹 서버는 서버로 불린다.
 
-![Client-Sever](./assets/0824/clinentToserver.png)
+![Client-Sever](https://github.com/Uk-jake/ModifyReadme/assets/100981076/47a9f2c6-c0f0-437f-987a-c983972a00bb)
 
 - 클라이언트는 서버에게 요청을 하고 서버는 클라이언트의 요청에 알맞는 응답을 제공한다.
 
@@ -53,7 +53,8 @@ image:
 
 ### 2) 네트워크의 종류
 
-![Network](./assets/0824/Network.png)
+![Network](https://github.com/Uk-jake/ModifyReadme/assets/100981076/e7305c8b-a6cd-431c-b25a-45e3312d5d67)
+)
 
 - PAN(Personal Area Network) : 가장 작은 규모의 네트워크, 개인 네트워크
 - LAN(Local Area Network) : 근거리 영역 네트워크
